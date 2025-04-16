@@ -30,4 +30,4 @@ RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]
 # AuthType Basic
 # AuthName "Geschützter Bereich"
 # AuthUserFile /pfad/zur/.htpasswd
-# Require valid-user
+
